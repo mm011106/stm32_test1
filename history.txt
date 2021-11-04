@@ -3,14 +3,11 @@ main2
 commit
 main3
 main4
-<<<<<<< HEAD
 branch1
 branch2
 main5
 main6
 commit 
-=======
 main5
 main6
 commit 
->>>>>>> 4297b7b48e7bc4cc516b788a84a9b50a43cf8dde
