@@ -3,14 +3,11 @@ main2
 commit
 main3
 main4
-<<<<<<< HEAD
 branch1
 branch2
 main5
 main6
 commit 
-=======
 main5
 main6
 commit 
->>>>>>> commit 3 :main add lines
